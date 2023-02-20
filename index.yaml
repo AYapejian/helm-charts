@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  echo-server:
+  - apiVersion: v2
+    appVersion: 0.7.0
+    created: "2023-02-20T15:55:03.764068382Z"
+    description: A Helm chart for Kubernetes
+    digest: 07ca238fc919d3c977011d933b450368e75484b03e18b20b689ee45349bf1957
+    maintainers:
+    - name: ayapejian
+    name: echo-server
+    type: application
+    urls:
+    - https://github.com/AYapejian/helm-charts/releases/download/echo-server-0.1.0/echo-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-20T15:55:03.764079082Z"
