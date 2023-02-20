@@ -13,4 +13,17 @@ entries:
     urls:
     - https://github.com/AYapejian/helm-charts/releases/download/echo-server-0.1.0/echo-server-0.1.0.tgz
     version: 0.1.0
-generated: "2023-02-20T15:55:03.764079082Z"
+  web-server:
+  - apiVersion: v2
+    appVersion: 1.23.3-alpine-slim
+    created: "2023-02-20T16:47:38.734801689Z"
+    description: A Helm chart for Kubernetes
+    digest: 2d0e3f1c85df3b45f12c2d2ff65112f6ce3246d0a38e52532791c4e5b7d20f8e
+    maintainers:
+    - name: ayapejian
+    name: web-server
+    type: application
+    urls:
+    - https://github.com/AYapejian/helm-charts/releases/download/web-server-0.1.0/web-server-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-20T16:47:38.734832889Z"
